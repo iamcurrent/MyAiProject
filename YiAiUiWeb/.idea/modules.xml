@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AiWeb.iml" filepath="$PROJECT_DIR$/AiWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YiAiUiWeb.iml" filepath="$PROJECT_DIR$/YiAiUiWeb.iml" />
+    </modules>
+  </component>
+</project>
